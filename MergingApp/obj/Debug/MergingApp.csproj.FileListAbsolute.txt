@@ -1,0 +1,7 @@
+C:\Users\1570367\source\repos\MergingApp\MergingApp\bin\Debug\MergingApp.exe.config
+C:\Users\1570367\source\repos\MergingApp\MergingApp\bin\Debug\MergingApp.exe
+C:\Users\1570367\source\repos\MergingApp\MergingApp\bin\Debug\MergingApp.pdb
+C:\Users\1570367\source\repos\MergingApp\MergingApp\obj\Debug\MergingApp.csprojAssemblyReference.cache
+C:\Users\1570367\source\repos\MergingApp\MergingApp\obj\Debug\MergingApp.csproj.CoreCompileInputs.cache
+C:\Users\1570367\source\repos\MergingApp\MergingApp\obj\Debug\MergingApp.exe
+C:\Users\1570367\source\repos\MergingApp\MergingApp\obj\Debug\MergingApp.pdb
